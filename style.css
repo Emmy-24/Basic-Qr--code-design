@@ -1,0 +1,21 @@
+html, body, section, div, h3, article{
+  /* margin: o; */
+  padding: 0;
+  box-sizing: border-box;
+}
+.light-blue-background{
+  background-color: rgb(97, 139, 237);
+  height: 100vh;
+  padding-top: 50px;
+}
+.white-background{
+  border: 1px solid white;
+  border-radius: 30px;
+  width: 90%;
+  background-color: white;
+  margin: 0 auto;
+}
+.img{
+  width: 100%;
+  max-width: 500px;
+}
